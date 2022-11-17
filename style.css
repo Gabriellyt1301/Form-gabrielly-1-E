@@ -1,5 +1,5 @@
 body{
-  backgroud:  purple;
+  background:  purple;
 }
 form label{
   display: block;
@@ -7,7 +7,7 @@ form label{
     color: black;
 }
 form input{
-  backgroud: white;
+  background: white;
   display: block;
 }
 h1{
